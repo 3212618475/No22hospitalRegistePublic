@@ -1,4 +1,4 @@
-基于SpringBoot的养老院管理系统(源代码+数据库)002
+基于SpringBoot的养老院管理系统(程序+论文)
 =
 - 完整代码获取地址：从戎源码网 ([https://armycodes.com/](https://armycodes.com/))
 - 作者微信：19941326836  QQ：952045282 
